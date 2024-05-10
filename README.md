@@ -1,6 +1,6 @@
 # Hi ![Greetings](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Praneeth Chavva
 
-<img align="right" alt="coding" width="400" src="">
+<img align ="right" alt="coding" width="400" src="https://github.com/praneeth0810/praneeth0810/blob/main/DE.jpg">
 
 ## About Me
 I am an aspiring Data Engineer and a Master's student in Computer Science at the University of Utah. With a background in Electronics and Communication Engineering specializing in IoT and Sensors from the Vellore Institute of Technology, I am committed to leveraging advanced data technologies to solve complex business challenges.
