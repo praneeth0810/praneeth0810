@@ -27,10 +27,10 @@ Developed a data management and analytics platform to aid pharmaceutical market 
 ### Movie Data Analytics and Prediction System
 Engaged in a comprehensive data discovery project within a schema-less data lake to predict IMDb scores based on movie metadata. Utilized Python and SQL for data integration, performing joins and unions to consolidate features from disparate sources. Conducted feature engineering to enhance predictive accuracy and evaluated model performance.
 
-## Enhancing E-Commerce Profitability: Daily Product Revenue Data Pipeline
+### Enhancing E-Commerce Profitability: Daily Product Revenue Data Pipeline
 This project builds a robust data pipeline to calculate daily product revenue for an e-commerce platform, leveraging Google Cloud Platform (GCP) for automated and scalable data processing. It enhances financial decision-making and profitability through advanced data analytics.
 
-## Stock Market Real-Time Data Analysis Using Kafka & AWS
+### Stock Market Real-Time Data Analysis Using Kafka & AWS
 This project showcases real-time stock market data streaming and analysis using Apache Kafka for event-driven processing and AWS services (S3, Glue, Athena) for scalable storage and querying. It simulates real-time stock data ingestion from a static dataset, demonstrating a robust financial analytics pipeline.
 
 ##
