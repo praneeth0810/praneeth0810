@@ -3,7 +3,7 @@
 <img align ="right" alt="coding" width="400" src="https://github.com/praneeth0810/praneeth0810/blob/main/DE.jpg">
 
 ## About Me
-I am an aspiring Data Engineer and a Master's student in Computer Science at the University of Utah. With a background in Electronics and Communication Engineering specializing in IoT and Sensors from the Vellore Institute of Technology, I am committed to leveraging advanced data technologies to solve complex business challenges.
+I am a Data Engineer and a Master's student in Computer Science at the University of Utah. With a background in Electronics and Communication Engineering specializing in IoT and Sensors from the Vellore Institute of Technology, I am committed to leveraging advanced data technologies to solve complex business challenges.
 
 ### Technical Skills 🛠️
 - **Programming Languages:** Python, Java, C, SQL, NoSQL
@@ -36,13 +36,12 @@ This project showcases real-time stock market data streaming and analysis using 
 ##
 
 ## Academic Contributions 📚
-As a Graduate Teaching Assistant, I have been instrumental in mentoring over 50 students each semester, helping them master complex concepts in data management and visualization.
-
+As a Graduate Research Assistant, I have been instrumental in designing production-grade data systems supporting analytics, machine learning, and usability research.
 ## Professional Impact 🧑🏽‍💻
 My tenure at Cognizant Technology Solutions was marked by significant improvements in system efficiencies—enhancing billing accuracy by 15% and reducing processing times by 20% through strategic automation and system enhancements.
 
 ## Location
-🌍 I'm based in the United States
+🌍 I'm based in the Salt Lake City, United States
 
 ## Contact
 ✉️ You can reach me at [praneethchavva06@gmail.com](mailto:praneethchavva06@gmail.com)
